@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background generator from ZTM course--> HTML, CSS and JS.",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbastalec/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbastalec/background-generator/issues"
+  },
+  "homepage": "https://github.com/kbastalec/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
